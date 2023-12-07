@@ -2,8 +2,9 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
 
-namespace FingerTip.Volume
+namespace FingerTip
 {
+    using FingerTip.Volume;
     public sealed class HeightFogRendererFeature : ScriptableRendererFeature
     {
         private sealed class HeightFogRenderPass : ScriptableRenderPass
