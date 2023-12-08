@@ -1,0 +1,27 @@
+{
+    "name": "com.jnhtt.height-fog-urp-volume",
+    "displayName": "Height Fog", 
+    "version": "0.1.0",               
+    "unity": "2022.3",
+    "description": "Height Fog for URP Volume.",
+    "author": {
+        "name": "jnhtt",
+        "url": "https://github.com/jnhtt"
+    },
+
+    "keywords": [
+        "urp",
+        "volume"
+    ],
+
+    "dependencies": {
+    },
+
+	"samples": [
+        {
+            "displayName": "HeightFog Sample",
+            "description": "Height Fog Sample Scene",
+            "path": "Samples/HeightFogScene"
+        }
+    ]
+}
