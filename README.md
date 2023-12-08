@@ -11,6 +11,12 @@ PostProcessingなのでオブジェクト描画のシェーダーに変更を加
 | Unity | 2022.3.14f1 |
 | Universal RP | 14.0.9 |
 
+## Unity PackageManagerでの追加
+
+Window > PackageManager > Add package from git url ...  
+以下のURLを追加します。
+https://github.com/jnhtt/height-fog-urp-volume.git?path=Assets/HeightFog
+
 ## セットアップ
 
 1. UniversalRenderer Data の Renderer Features に HeightFogRendererFeatureを追加します。
@@ -31,6 +37,12 @@ Since it is PostProcessing, there is no need to make any changes to the shader o
 | --- | --- |
 | Unity | 2022.3.14f1 |
 | Universal RP | 14.0.9 |
+
+## Add using Unity PackageManager
+
+Window > PackageManager > Add package from git url ...  
+
+https://github.com/jnhtt/height-fog-urp-volume.git?path=Assets/HeightFog
 
 ## Setup
 
