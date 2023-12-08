@@ -21,7 +21,7 @@
         {
             "displayName": "HeightFog Sample",
             "description": "Height Fog Sample Scene",
-            "path": "Samples/HeightFogScene"
+            "path": "Samples~/HeightFogScene"
         }
     ]
 }
